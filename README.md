@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sistema de Cadastro de Cliente com Python, Tkinter e SQLite3
 
 Um simples sistema de cadastro de clientes que utiliza Python com a biblioteca Tkinter para a interface gráfica e SQLite3 para o armazenamento dos dados.
